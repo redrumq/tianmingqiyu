@@ -1,6 +1,8 @@
 # tianmingqiyu
 天命奇御网站
 
+链接：http://39.107.104.171/
+
 vue框架
 
 elementui库
